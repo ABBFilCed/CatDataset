@@ -1,0 +1,1 @@
+<annotations><filename>00000302.JPEG</filename><folder>images</folder><size><width>600</width><height>900</height><depth>3</depth></size><object><name>cat</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>8.999999999999943</xmin><ymin>546.0</ymin><xmax>577.0</xmax><ymax>780.0</ymax></bndbox></object></annotations>
